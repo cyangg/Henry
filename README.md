@@ -8,5 +8,6 @@
 
 :bar_chart: **Data Projects**
 - **Excel + Python:** [Bellabeat Fitness Data Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)
+- **SQL** 
 
 
