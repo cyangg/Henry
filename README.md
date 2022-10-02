@@ -7,6 +7,6 @@
 - I’m looking to collaborate on Analytics Projects
 
 :bar_chart: **Data Projects**
-- **Excel + Python:** [The Co-operators Insurance Quotes Analysis]
+- **Excel + Python:** [The Co-operators Insurance Quotes Analysis](https://github.com/cyangg/The-Co-operators-Insurance-Quotes-Analysis)
 
 
