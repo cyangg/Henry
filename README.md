@@ -7,5 +7,6 @@
 - I’m looking to collaborate on Analytics Projects
 
 :bar_chart: **Data Projects**
+- **Excel + Python:**
 
 
