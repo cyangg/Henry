@@ -7,6 +7,6 @@
 - I’m looking to collaborate on Analytics Projects
 
 :bar_chart: **Data Projects**
-- **Excel + Python:** [Bellabeat Fitness Data Analysis](https://github.com/cyangg/The-Co-operators-Insurance-Quotes-Analysis)
+- **Excel + Python:** [Bellabeat Fitness Data Analysis](https://github.com/cyangg/Bellabeat-Fitness-Data-Analysis)
 
 
